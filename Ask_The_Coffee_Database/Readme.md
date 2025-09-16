@@ -99,7 +99,7 @@ Here’s how the app looks when running:
 
 ![Ask The Coffee Database Screenshot](ui_preview.png)
 
-*(Replace `screenshot.png` with your actual screenshot image placed in the repo folder.)*
+
 
 ---
 
