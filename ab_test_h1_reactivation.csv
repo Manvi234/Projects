@@ -1,0 +1,5 @@
+Hypothesis,Group,Outcome,Count
+H1_Reactivation,Control,Reactivated,125
+H1_Reactivation,Control,Not Reactivated,2375
+H1_Reactivation,Treatment,Reactivated,188
+H1_Reactivation,Treatment,Not Reactivated,2312
